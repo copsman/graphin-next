@@ -7,8 +7,9 @@ import {
     SearchOutlined
 } from "@ant-design/icons";
 import { Drawer, MenuProps } from "antd";
-import { Breadcrumb, Layout, Menu } from "antd";
+import { Breadcrumb, Layout, Menu, Button } from "antd";
 import React, { useContext, useEffect, useState } from "react";
+import LoadAutoSave from "../graph_functions/save-load/LoadAutoSave";
 import SearchBar from "../graph_functions/SearchBar"
 
 type MenuItem = Required<MenuProps>["items"][number];
@@ -72,7 +73,12 @@ const PageSider: React.FC = () => {
             onCollapse={(value) => setCollapsed(value)}
         >
             <Drawer title="Basic Drawer" placement="left" onClose={onClose} visible={visible}>
+                <p>
                 <SearchBar />
+                </p>
+                <p>
+                <LoadAutoSave />
+                </p>
             </Drawer>
             <Menu onClick={handleClick}
                 theme="dark"

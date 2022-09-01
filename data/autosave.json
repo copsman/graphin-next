@@ -1,0 +1,2484 @@
+{
+  "nodes": [
+      {
+          "id": "account_7",
+          "nodeType": "account_balance",
+          "nodeTypeKeyFromProperties": "icon",
+          "data": {
+              "id": "account_7",
+              "icon": "account_balance",
+              "create_date": "2019-01-03T00:00:00",
+              "is_different_bank": 0
+          },
+          "style": {
+              "label": {
+                  "value": "account_7",
+                  "fill": "black"
+              },
+              "keyshape": {
+                  "size": 30,
+                  "stroke": "#ffc107",
+                  "fill": "#ffc107",
+                  "fillOpacity": 0.2
+              },
+              "icon": {
+                  "type": "font",
+                  "fontFamily": "graphin",
+                  "value": "",
+                  "fill": "black"
+              }
+          },
+          "type": "graphin-circle",
+          "_initialStyle": {
+              "keyshape": {
+                  "size": 30,
+                  "fill": "#ffc107",
+                  "fillOpacity": 0.2,
+                  "stroke": "#ffc107",
+                  "strokeOpacity": 1,
+                  "lineWidth": 1,
+                  "opacity": 1,
+                  "type": "circle"
+              },
+              "label": {
+                  "position": "bottom",
+                  "value": "account_7",
+                  "fill": "black",
+                  "fontSize": 12,
+                  "offset": 0,
+                  "fillOpacity": 1
+              },
+              "icon": {
+                  "type": "font",
+                  "value": "",
+                  "size": 13,
+                  "fill": "black",
+                  "fillOpacity": 1,
+                  "offset": [
+                      0,
+                      0
+                  ],
+                  "fontFamily": "graphin"
+              },
+              "badges": [],
+              "halo": {
+                  "visible": false,
+                  "fillOpacity": 0.1
+              }
+          },
+          "depth": 0,
+          "x": 70,
+          "y": 260,
+          "layoutOrder": 0,
+          "_order": 0
+      },
+      {
+          "id": "account_20",
+          "nodeType": "account_balance",
+          "nodeTypeKeyFromProperties": "icon",
+          "data": {
+              "id": "account_20",
+              "icon": "account_balance",
+              "create_date": "2019-01-05T00:00:00",
+              "is_different_bank": 0
+          },
+          "style": {
+              "label": {
+                  "value": "account_20",
+                  "fill": "black"
+              },
+              "keyshape": {
+                  "size": 30,
+                  "stroke": "#ffc107",
+                  "fill": "#ffc107",
+                  "fillOpacity": 0.2
+              },
+              "icon": {
+                  "type": "font",
+                  "fontFamily": "graphin",
+                  "value": "",
+                  "fill": "black"
+              }
+          },
+          "type": "graphin-circle",
+          "_initialStyle": {
+              "keyshape": {
+                  "size": 30,
+                  "fill": "#ffc107",
+                  "fillOpacity": 0.2,
+                  "stroke": "#ffc107",
+                  "strokeOpacity": 1,
+                  "lineWidth": 1,
+                  "opacity": 1,
+                  "type": "circle"
+              },
+              "label": {
+                  "position": "bottom",
+                  "value": "account_20",
+                  "fill": "black",
+                  "fontSize": 12,
+                  "offset": 0,
+                  "fillOpacity": 1
+              },
+              "icon": {
+                  "type": "font",
+                  "value": "",
+                  "size": 13,
+                  "fill": "black",
+                  "fillOpacity": 1,
+                  "offset": [
+                      0,
+                      0
+                  ],
+                  "fontFamily": "graphin"
+              },
+              "badges": [],
+              "halo": {
+                  "visible": false,
+                  "fillOpacity": 0.1
+              }
+          },
+          "depth": 0,
+          "x": 260,
+          "y": 260,
+          "layoutOrder": 0,
+          "_order": 1
+      },
+      {
+          "id": "account_55",
+          "nodeType": "account_balance",
+          "nodeTypeKeyFromProperties": "icon",
+          "data": {
+              "id": "account_55",
+              "icon": "account_balance",
+              "create_date": "2019-01-07T00:00:00",
+              "is_different_bank": 0
+          },
+          "style": {
+              "label": {
+                  "value": "account_55",
+                  "fill": "black"
+              },
+              "keyshape": {
+                  "size": 30,
+                  "stroke": "#ffc107",
+                  "fill": "#ffc107",
+                  "fillOpacity": 0.2
+              },
+              "icon": {
+                  "type": "font",
+                  "fontFamily": "graphin",
+                  "value": "",
+                  "fill": "black"
+              }
+          },
+          "type": "graphin-circle",
+          "_initialStyle": {
+              "keyshape": {
+                  "size": 30,
+                  "fill": "#ffc107",
+                  "fillOpacity": 0.2,
+                  "stroke": "#ffc107",
+                  "strokeOpacity": 1,
+                  "lineWidth": 1,
+                  "opacity": 1,
+                  "type": "circle"
+              },
+              "label": {
+                  "position": "bottom",
+                  "value": "account_55",
+                  "fill": "black",
+                  "fontSize": 12,
+                  "offset": 0,
+                  "fillOpacity": 1
+              },
+              "icon": {
+                  "type": "font",
+                  "value": "",
+                  "size": 13,
+                  "fill": "black",
+                  "fillOpacity": 1,
+                  "offset": [
+                      0,
+                      0
+                  ],
+                  "fontFamily": "graphin"
+              },
+              "badges": [],
+              "halo": {
+                  "visible": false,
+                  "fillOpacity": 0.1
+              }
+          },
+          "depth": 0,
+          "x": 450,
+          "y": 260,
+          "layoutOrder": 0,
+          "_order": 2
+      },
+      {
+          "id": "account_81",
+          "nodeType": "account_balance",
+          "nodeTypeKeyFromProperties": "icon",
+          "data": {
+              "id": "account_81",
+              "icon": "account_balance",
+              "create_date": "2019-01-15T00:00:00",
+              "is_different_bank": 0
+          },
+          "style": {
+              "label": {
+                  "value": "account_81",
+                  "fill": "black"
+              },
+              "keyshape": {
+                  "size": 30,
+                  "stroke": "#ffc107",
+                  "fill": "#ffc107",
+                  "fillOpacity": 0.2
+              },
+              "icon": {
+                  "type": "font",
+                  "fontFamily": "graphin",
+                  "value": "",
+                  "fill": "black"
+              }
+          },
+          "type": "graphin-circle",
+          "_initialStyle": {
+              "keyshape": {
+                  "size": 30,
+                  "fill": "#ffc107",
+                  "fillOpacity": 0.2,
+                  "stroke": "#ffc107",
+                  "strokeOpacity": 1,
+                  "lineWidth": 1,
+                  "opacity": 1,
+                  "type": "circle"
+              },
+              "label": {
+                  "position": "bottom",
+                  "value": "account_81",
+                  "fill": "black",
+                  "fontSize": 12,
+                  "offset": 0,
+                  "fillOpacity": 1
+              },
+              "icon": {
+                  "type": "font",
+                  "value": "",
+                  "size": 13,
+                  "fill": "black",
+                  "fillOpacity": 1,
+                  "offset": [
+                      0,
+                      0
+                  ],
+                  "fontFamily": "graphin"
+              },
+              "badges": [],
+              "halo": {
+                  "visible": false,
+                  "fillOpacity": 0.1
+              }
+          },
+          "depth": 0,
+          "x": 640,
+          "y": 260,
+          "layoutOrder": 0,
+          "_order": 3
+      },
+      {
+          "id": "account_103",
+          "nodeType": "account_balance",
+          "nodeTypeKeyFromProperties": "icon",
+          "data": {
+              "id": "account_103",
+              "icon": "account_balance",
+              "create_date": "2019-01-15T00:00:00",
+              "is_different_bank": 0
+          },
+          "style": {
+              "label": {
+                  "value": "account_103",
+                  "fill": "black"
+              },
+              "keyshape": {
+                  "size": 30,
+                  "stroke": "#ffc107",
+                  "fill": "#ffc107",
+                  "fillOpacity": 0.2
+              },
+              "icon": {
+                  "type": "font",
+                  "fontFamily": "graphin",
+                  "value": "",
+                  "fill": "black"
+              }
+          },
+          "type": "graphin-circle",
+          "_initialStyle": {
+              "keyshape": {
+                  "size": 30,
+                  "fill": "#ffc107",
+                  "fillOpacity": 0.2,
+                  "stroke": "#ffc107",
+                  "strokeOpacity": 1,
+                  "lineWidth": 1,
+                  "opacity": 1,
+                  "type": "circle"
+              },
+              "label": {
+                  "position": "bottom",
+                  "value": "account_103",
+                  "fill": "black",
+                  "fontSize": 12,
+                  "offset": 0,
+                  "fillOpacity": 1
+              },
+              "icon": {
+                  "type": "font",
+                  "value": "",
+                  "size": 13,
+                  "fill": "black",
+                  "fillOpacity": 1,
+                  "offset": [
+                      0,
+                      0
+                  ],
+                  "fontFamily": "graphin"
+              },
+              "badges": [],
+              "halo": {
+                  "visible": false,
+                  "fillOpacity": 0.1
+              }
+          },
+          "depth": 0,
+          "x": 664.3865264441396,
+          "y": -30.10973936899842,
+          "layoutOrder": 0,
+          "_order": 0
+      },
+      {
+          "id": "account_901",
+          "nodeType": "account_balance",
+          "nodeTypeKeyFromProperties": "icon",
+          "data": {
+              "id": "account_901",
+              "icon": "account_balance",
+              "create_date": "2019-01-03T00:00:00",
+              "is_different_bank": 0
+          },
+          "style": {
+              "label": {
+                  "value": "account_901",
+                  "fill": "black"
+              },
+              "keyshape": {
+                  "size": 30,
+                  "stroke": "#ffc107",
+                  "fill": "#ffc107",
+                  "fillOpacity": 0.2
+              },
+              "icon": {
+                  "type": "font",
+                  "fontFamily": "graphin",
+                  "value": "",
+                  "fill": "black"
+              }
+          },
+          "type": "graphin-circle",
+          "_initialStyle": {
+              "keyshape": {
+                  "size": 30,
+                  "fill": "#ffc107",
+                  "fillOpacity": 0.2,
+                  "stroke": "#ffc107",
+                  "strokeOpacity": 1,
+                  "lineWidth": 1,
+                  "opacity": 1,
+                  "type": "circle"
+              },
+              "label": {
+                  "position": "bottom",
+                  "value": "account_901",
+                  "fill": "black",
+                  "fontSize": 12,
+                  "offset": 0,
+                  "fillOpacity": 1
+              },
+              "icon": {
+                  "type": "font",
+                  "value": "",
+                  "size": 13,
+                  "fill": "black",
+                  "fillOpacity": 1,
+                  "offset": [
+                      0,
+                      0
+                  ],
+                  "fontFamily": "graphin"
+              },
+              "badges": [],
+              "halo": {
+                  "visible": false,
+                  "fillOpacity": 0.1
+              }
+          },
+          "depth": 0,
+          "x": 830,
+          "y": 260,
+          "layoutOrder": 0,
+          "_order": 4
+      },
+      {
+          "id": "account_902",
+          "nodeType": "account_balance",
+          "nodeTypeKeyFromProperties": "icon",
+          "data": {
+              "id": "account_902",
+              "icon": "account_balance",
+              "create_date": "2019-01-10T00:00:00",
+              "is_different_bank": 0
+          },
+          "style": {
+              "label": {
+                  "value": "account_902",
+                  "fill": "black"
+              },
+              "keyshape": {
+                  "size": 30,
+                  "stroke": "#ffc107",
+                  "fill": "#ffc107",
+                  "fillOpacity": 0.2
+              },
+              "icon": {
+                  "type": "font",
+                  "fontFamily": "graphin",
+                  "value": "",
+                  "fill": "black"
+              }
+          },
+          "type": "graphin-circle",
+          "_initialStyle": {
+              "keyshape": {
+                  "size": 30,
+                  "fill": "#ffc107",
+                  "fillOpacity": 0.2,
+                  "stroke": "#ffc107",
+                  "strokeOpacity": 1,
+                  "lineWidth": 1,
+                  "opacity": 1,
+                  "type": "circle"
+              },
+              "label": {
+                  "position": "bottom",
+                  "value": "account_902",
+                  "fill": "black",
+                  "fontSize": 12,
+                  "offset": 0,
+                  "fillOpacity": 1
+              },
+              "icon": {
+                  "type": "font",
+                  "value": "",
+                  "size": 13,
+                  "fill": "black",
+                  "fillOpacity": 1,
+                  "offset": [
+                      0,
+                      0
+                  ],
+                  "fontFamily": "graphin"
+              },
+              "badges": [],
+              "halo": {
+                  "visible": false,
+                  "fillOpacity": 0.1
+              }
+          },
+          "depth": 0,
+          "x": 1020,
+          "y": 260,
+          "layoutOrder": 0,
+          "_order": 5
+      },
+      {
+          "id": "account_903",
+          "nodeType": "account_balance",
+          "nodeTypeKeyFromProperties": "icon",
+          "data": {
+              "id": "account_903",
+              "icon": "account_balance",
+              "create_date": "2019-01-09T00:00:00",
+              "is_different_bank": 1
+          },
+          "style": {
+              "label": {
+                  "value": "account_903",
+                  "fill": "black"
+              },
+              "keyshape": {
+                  "size": 30,
+                  "stroke": "#ffc107",
+                  "fill": "#ffc107",
+                  "fillOpacity": 0.2
+              },
+              "icon": {
+                  "type": "font",
+                  "fontFamily": "graphin",
+                  "value": "",
+                  "fill": "black"
+              }
+          },
+          "type": "graphin-circle",
+          "_initialStyle": {
+              "keyshape": {
+                  "size": 30,
+                  "fill": "#ffc107",
+                  "fillOpacity": 0.2,
+                  "stroke": "#ffc107",
+                  "strokeOpacity": 1,
+                  "lineWidth": 1,
+                  "opacity": 1,
+                  "type": "circle"
+              },
+              "label": {
+                  "position": "bottom",
+                  "value": "account_903",
+                  "fill": "black",
+                  "fontSize": 12,
+                  "offset": 0,
+                  "fillOpacity": 1
+              },
+              "icon": {
+                  "type": "font",
+                  "value": "",
+                  "size": 13,
+                  "fill": "black",
+                  "fillOpacity": 1,
+                  "offset": [
+                      0,
+                      0
+                  ],
+                  "fontFamily": "graphin"
+              },
+              "badges": [],
+              "halo": {
+                  "visible": false,
+                  "fillOpacity": 0.1
+              }
+          },
+          "depth": 0,
+          "x": 755,
+          "y": 640,
+          "layoutOrder": 0,
+          "_order": 1
+      },
+      {
+          "id": "account_904",
+          "nodeType": "account_balance",
+          "nodeTypeKeyFromProperties": "icon",
+          "data": {
+              "id": "account_904",
+              "icon": "account_balance",
+              "create_date": "2019-01-08T00:00:00",
+              "is_different_bank": 1
+          },
+          "style": {
+              "label": {
+                  "value": "account_904",
+                  "fill": "black"
+              },
+              "keyshape": {
+                  "size": 30,
+                  "stroke": "#ffc107",
+                  "fill": "#ffc107",
+                  "fillOpacity": 0.2
+              },
+              "icon": {
+                  "type": "font",
+                  "fontFamily": "graphin",
+                  "value": "",
+                  "fill": "black"
+              }
+          },
+          "type": "graphin-circle",
+          "_initialStyle": {
+              "keyshape": {
+                  "size": 30,
+                  "fill": "#ffc107",
+                  "fillOpacity": 0.2,
+                  "stroke": "#ffc107",
+                  "strokeOpacity": 1,
+                  "lineWidth": 1,
+                  "opacity": 1,
+                  "type": "circle"
+              },
+              "label": {
+                  "position": "bottom",
+                  "value": "account_904",
+                  "fill": "black",
+                  "fontSize": 12,
+                  "offset": 0,
+                  "fillOpacity": 1
+              },
+              "icon": {
+                  "type": "font",
+                  "value": "",
+                  "size": 13,
+                  "fill": "black",
+                  "fillOpacity": 1,
+                  "offset": [
+                      0,
+                      0
+                  ],
+                  "fontFamily": "graphin"
+              },
+              "badges": [],
+              "halo": {
+                  "visible": false,
+                  "fillOpacity": 0.1
+              }
+          },
+          "depth": 0,
+          "x": 565,
+          "y": 640,
+          "layoutOrder": 0,
+          "_order": 0
+      },
+      {
+          "id": "customer_7",
+          "nodeType": "account_box",
+          "nodeTypeKeyFromProperties": "icon",
+          "data": {
+              "id": "customer_7",
+              "icon": "account_box",
+              "address": "-",
+              "customer_type": "retail",
+              "first_name": "-",
+              "last_name": "-",
+              "phone": "-",
+              "remarks": "high-value IB txn into customer 103's account",
+              "risk_category": "medium",
+              "risk_score": 50
+          },
+          "style": {
+              "label": {
+                  "value": "customer_7",
+                  "fill": "black"
+              },
+              "keyshape": {
+                  "size": 30,
+                  "stroke": "#28a52d",
+                  "fill": "#28a52d",
+                  "fillOpacity": 0.2
+              },
+              "icon": {
+                  "type": "font",
+                  "fontFamily": "graphin",
+                  "value": "",
+                  "fill": "black"
+              }
+          },
+          "type": "graphin-circle",
+          "_initialStyle": {
+              "keyshape": {
+                  "size": 30,
+                  "fill": "#28a52d",
+                  "fillOpacity": 0.2,
+                  "stroke": "#28a52d",
+                  "strokeOpacity": 1,
+                  "lineWidth": 1,
+                  "opacity": 1,
+                  "type": "circle"
+              },
+              "label": {
+                  "position": "bottom",
+                  "value": "customer_7",
+                  "fill": "black",
+                  "fontSize": 12,
+                  "offset": 0,
+                  "fillOpacity": 1
+              },
+              "icon": {
+                  "type": "font",
+                  "value": "",
+                  "size": 13,
+                  "fill": "black",
+                  "fillOpacity": 1,
+                  "offset": [
+                      0,
+                      0
+                  ],
+                  "fontFamily": "graphin"
+              },
+              "badges": [],
+              "halo": {
+                  "visible": false,
+                  "fillOpacity": 0.1
+              }
+          },
+          "depth": 0,
+          "x": 70,
+          "y": 70,
+          "layoutOrder": 0,
+          "_order": 0
+      },
+      {
+          "id": "customer_20",
+          "nodeType": "account_box",
+          "nodeTypeKeyFromProperties": "icon",
+          "data": {
+              "id": "customer_20",
+              "icon": "account_box",
+              "address": "-",
+              "customer_type": "retail",
+              "first_name": "-",
+              "last_name": "-",
+              "phone": "-",
+              "remarks": "high-value IB txn into customer 103's account",
+              "risk_category": "medium",
+              "risk_score": 50
+          },
+          "style": {
+              "label": {
+                  "value": "customer_20",
+                  "fill": "black"
+              },
+              "keyshape": {
+                  "size": 30,
+                  "stroke": "#28a52d",
+                  "fill": "#28a52d",
+                  "fillOpacity": 0.2
+              },
+              "icon": {
+                  "type": "font",
+                  "fontFamily": "graphin",
+                  "value": "",
+                  "fill": "black"
+              }
+          },
+          "type": "graphin-circle",
+          "_initialStyle": {
+              "keyshape": {
+                  "size": 30,
+                  "fill": "#28a52d",
+                  "fillOpacity": 0.2,
+                  "stroke": "#28a52d",
+                  "strokeOpacity": 1,
+                  "lineWidth": 1,
+                  "opacity": 1,
+                  "type": "circle"
+              },
+              "label": {
+                  "position": "bottom",
+                  "value": "customer_20",
+                  "fill": "black",
+                  "fontSize": 12,
+                  "offset": 0,
+                  "fillOpacity": 1
+              },
+              "icon": {
+                  "type": "font",
+                  "value": "",
+                  "size": 13,
+                  "fill": "black",
+                  "fillOpacity": 1,
+                  "offset": [
+                      0,
+                      0
+                  ],
+                  "fontFamily": "graphin"
+              },
+              "badges": [],
+              "halo": {
+                  "visible": false,
+                  "fillOpacity": 0.1
+              }
+          },
+          "depth": 0,
+          "x": 260,
+          "y": 70,
+          "layoutOrder": 0,
+          "_order": 1
+      },
+      {
+          "id": "customer_55",
+          "nodeType": "account_box",
+          "nodeTypeKeyFromProperties": "icon",
+          "data": {
+              "id": "customer_55",
+              "icon": "account_box",
+              "address": "-",
+              "customer_type": "retail",
+              "first_name": "-",
+              "last_name": "-",
+              "phone": "-",
+              "remarks": "high-value IB txn into customer 103's account",
+              "risk_category": "medium",
+              "risk_score": 50
+          },
+          "style": {
+              "label": {
+                  "value": "customer_55",
+                  "fill": "black"
+              },
+              "keyshape": {
+                  "size": 30,
+                  "stroke": "#28a52d",
+                  "fill": "#28a52d",
+                  "fillOpacity": 0.2
+              },
+              "icon": {
+                  "type": "font",
+                  "fontFamily": "graphin",
+                  "value": "",
+                  "fill": "black"
+              }
+          },
+          "type": "graphin-circle",
+          "_initialStyle": {
+              "keyshape": {
+                  "size": 30,
+                  "fill": "#28a52d",
+                  "fillOpacity": 0.2,
+                  "stroke": "#28a52d",
+                  "strokeOpacity": 1,
+                  "lineWidth": 1,
+                  "opacity": 1,
+                  "type": "circle"
+              },
+              "label": {
+                  "position": "bottom",
+                  "value": "customer_55",
+                  "fill": "black",
+                  "fontSize": 12,
+                  "offset": 0,
+                  "fillOpacity": 1
+              },
+              "icon": {
+                  "type": "font",
+                  "value": "",
+                  "size": 13,
+                  "fill": "black",
+                  "fillOpacity": 1,
+                  "offset": [
+                      0,
+                      0
+                  ],
+                  "fontFamily": "graphin"
+              },
+              "badges": [],
+              "halo": {
+                  "visible": false,
+                  "fillOpacity": 0.1
+              }
+          },
+          "depth": 0,
+          "x": 450,
+          "y": 70,
+          "layoutOrder": 0,
+          "_order": 2
+      },
+      {
+          "id": "customer_81",
+          "nodeType": "account_box",
+          "nodeTypeKeyFromProperties": "icon",
+          "data": {
+              "id": "customer_81",
+              "icon": "account_box",
+              "address": "-",
+              "customer_type": "retail",
+              "first_name": "-",
+              "last_name": "-",
+              "phone": "-",
+              "remarks": "high-value IB txn into customer 103's account",
+              "risk_category": "medium",
+              "risk_score": 50
+          },
+          "style": {
+              "label": {
+                  "value": "customer_81",
+                  "fill": "black"
+              },
+              "keyshape": {
+                  "size": 30,
+                  "stroke": "#28a52d",
+                  "fill": "#28a52d",
+                  "fillOpacity": 0.2
+              },
+              "icon": {
+                  "type": "font",
+                  "fontFamily": "graphin",
+                  "value": "",
+                  "fill": "black"
+              }
+          },
+          "type": "graphin-circle",
+          "_initialStyle": {
+              "keyshape": {
+                  "size": 30,
+                  "fill": "#28a52d",
+                  "fillOpacity": 0.2,
+                  "stroke": "#28a52d",
+                  "strokeOpacity": 1,
+                  "lineWidth": 1,
+                  "opacity": 1,
+                  "type": "circle"
+              },
+              "label": {
+                  "position": "bottom",
+                  "value": "customer_81",
+                  "fill": "black",
+                  "fontSize": 12,
+                  "offset": 0,
+                  "fillOpacity": 1
+              },
+              "icon": {
+                  "type": "font",
+                  "value": "",
+                  "size": 13,
+                  "fill": "black",
+                  "fillOpacity": 1,
+                  "offset": [
+                      0,
+                      0
+                  ],
+                  "fontFamily": "graphin"
+              },
+              "badges": [],
+              "halo": {
+                  "visible": false,
+                  "fillOpacity": 0.1
+              }
+          },
+          "depth": 0,
+          "x": 640,
+          "y": 70,
+          "layoutOrder": 0,
+          "_order": 3
+      },
+      {
+          "id": "customer_103",
+          "nodeType": "account_box",
+          "nodeTypeKeyFromProperties": "icon",
+          "data": {
+              "id": "customer_103",
+              "icon": "account_box",
+              "address": "103 RD",
+              "customer_type": "retail",
+              "first_name": "john",
+              "last_name": "doe",
+              "phone": "+65 0000 0103",
+              "remarks": "high-value purchases from luxury retailer. source of funds from 4 related accounts",
+              "risk_category": "high",
+              "risk_score": 99
+          },
+          "style": {
+              "label": {
+                  "value": "customer_103",
+                  "fill": "black"
+              },
+              "keyshape": {
+                  "size": 30,
+                  "stroke": "#28a52d",
+                  "fill": "#28a52d",
+                  "fillOpacity": 0.2
+              },
+              "icon": {
+                  "type": "font",
+                  "fontFamily": "graphin",
+                  "value": "",
+                  "fill": "black"
+              }
+          },
+          "type": "graphin-circle",
+          "_initialStyle": {
+              "keyshape": {
+                  "size": 30,
+                  "fill": "#28a52d",
+                  "fillOpacity": 0.2,
+                  "stroke": "#28a52d",
+                  "strokeOpacity": 1,
+                  "lineWidth": 1,
+                  "opacity": 1,
+                  "type": "circle"
+              },
+              "label": {
+                  "position": "bottom",
+                  "value": "customer_103",
+                  "fill": "black",
+                  "fontSize": 12,
+                  "offset": 0,
+                  "fillOpacity": 1
+              },
+              "icon": {
+                  "type": "font",
+                  "value": "",
+                  "size": 13,
+                  "fill": "black",
+                  "fillOpacity": 1,
+                  "offset": [
+                      0,
+                      0
+                  ],
+                  "fontFamily": "graphin"
+              },
+              "badges": [],
+              "halo": {
+                  "visible": false,
+                  "fillOpacity": 0.1
+              }
+          },
+          "depth": 0,
+          "x": 1210,
+          "y": 260,
+          "layoutOrder": 0,
+          "_order": 6
+      },
+      {
+          "id": "customer_901",
+          "nodeType": "account_box",
+          "nodeTypeKeyFromProperties": "icon",
+          "data": {
+              "id": "customer_901",
+              "icon": "account_box",
+              "address": "901 RD",
+              "customer_type": "retail",
+              "first_name": "jane",
+              "last_name": "doe",
+              "phone": "+65 0000 0103",
+              "remarks": "source of funds for customer 103's purchase of luxury items. customer has same phone number as customer 103.",
+              "risk_category": "medium",
+              "risk_score": 74
+          },
+          "style": {
+              "label": {
+                  "value": "customer_901",
+                  "fill": "black"
+              },
+              "keyshape": {
+                  "size": 30,
+                  "stroke": "#28a52d",
+                  "fill": "#28a52d",
+                  "fillOpacity": 0.2
+              },
+              "icon": {
+                  "type": "font",
+                  "fontFamily": "graphin",
+                  "value": "",
+                  "fill": "black"
+              }
+          },
+          "type": "graphin-circle",
+          "_initialStyle": {
+              "keyshape": {
+                  "size": 30,
+                  "fill": "#28a52d",
+                  "fillOpacity": 0.2,
+                  "stroke": "#28a52d",
+                  "strokeOpacity": 1,
+                  "lineWidth": 1,
+                  "opacity": 1,
+                  "type": "circle"
+              },
+              "label": {
+                  "position": "bottom",
+                  "value": "customer_901",
+                  "fill": "black",
+                  "fontSize": 12,
+                  "offset": 0,
+                  "fillOpacity": 1
+              },
+              "icon": {
+                  "type": "font",
+                  "value": "",
+                  "size": 13,
+                  "fill": "black",
+                  "fillOpacity": 1,
+                  "offset": [
+                      0,
+                      0
+                  ],
+                  "fontFamily": "graphin"
+              },
+              "badges": [],
+              "halo": {
+                  "visible": false,
+                  "fillOpacity": 0.1
+              }
+          },
+          "depth": 0,
+          "x": 830,
+          "y": 70,
+          "layoutOrder": 0,
+          "_order": 4
+      },
+      {
+          "id": "customer_902",
+          "nodeType": "account_box",
+          "nodeTypeKeyFromProperties": "icon",
+          "data": {
+              "id": "customer_902",
+              "icon": "account_box",
+              "address": "103 RD",
+              "customer_type": "retail",
+              "first_name": "jim",
+              "last_name": "smith",
+              "phone": "+65 0000 0902",
+              "remarks": "source of funds for customer 103's purchase of luxury items. customer has same address as customer 103.",
+              "risk_category": "medium",
+              "risk_score": 74
+          },
+          "style": {
+              "label": {
+                  "value": "customer_902",
+                  "fill": "black"
+              },
+              "keyshape": {
+                  "size": 30,
+                  "stroke": "#28a52d",
+                  "fill": "#28a52d",
+                  "fillOpacity": 0.2
+              },
+              "icon": {
+                  "type": "font",
+                  "fontFamily": "graphin",
+                  "value": "",
+                  "fill": "black"
+              }
+          },
+          "type": "graphin-circle",
+          "_initialStyle": {
+              "keyshape": {
+                  "size": 30,
+                  "fill": "#28a52d",
+                  "fillOpacity": 0.2,
+                  "stroke": "#28a52d",
+                  "strokeOpacity": 1,
+                  "lineWidth": 1,
+                  "opacity": 1,
+                  "type": "circle"
+              },
+              "label": {
+                  "position": "bottom",
+                  "value": "customer_902",
+                  "fill": "black",
+                  "fontSize": 12,
+                  "offset": 0,
+                  "fillOpacity": 1
+              },
+              "icon": {
+                  "type": "font",
+                  "value": "",
+                  "size": 13,
+                  "fill": "black",
+                  "fillOpacity": 1,
+                  "offset": [
+                      0,
+                      0
+                  ],
+                  "fontFamily": "graphin"
+              },
+              "badges": [],
+              "halo": {
+                  "visible": false,
+                  "fillOpacity": 0.1
+              }
+          },
+          "depth": 0,
+          "x": 1044.3865264441397,
+          "y": 77.62078951379362,
+          "layoutOrder": 0,
+          "_order": 5
+      },
+      {
+          "id": "other_banks",
+          "nodeType": "-",
+          "nodeTypeKeyFromProperties": "icon",
+          "data": {
+              "id": "other_banks",
+              "icon": "-",
+              "address": "-",
+              "customer_type": "-",
+              "first_name": "-",
+              "last_name": "-",
+              "phone": "-",
+              "remarks": "other banks",
+              "risk_category": "-",
+              "risk_score": "-"
+          },
+          "style": {
+              "label": {
+                  "value": "other_banks",
+                  "fill": "black"
+              },
+              "keyshape": {
+                  "size": 30,
+                  "fillOpacity": 0.2
+              },
+              "icon": {
+                  "type": "font",
+                  "fontFamily": "graphin",
+                  "value": "",
+                  "fill": "black"
+              }
+          },
+          "type": "graphin-circle",
+          "_initialStyle": {
+              "keyshape": {
+                  "size": 30,
+                  "fill": "#873bf4",
+                  "fillOpacity": 0.2,
+                  "stroke": "#873bf4",
+                  "strokeOpacity": 1,
+                  "lineWidth": 1,
+                  "opacity": 1,
+                  "type": "circle"
+              },
+              "label": {
+                  "position": "bottom",
+                  "value": "other_banks",
+                  "fill": "black",
+                  "fontSize": 12,
+                  "offset": 0,
+                  "fillOpacity": 1
+              },
+              "icon": {
+                  "type": "font",
+                  "value": "",
+                  "size": 13,
+                  "fill": "black",
+                  "fillOpacity": 1,
+                  "offset": [
+                      0,
+                      0
+                  ],
+                  "fontFamily": "graphin"
+              },
+              "badges": [],
+              "halo": {
+                  "visible": false,
+                  "fillOpacity": 0.1
+              }
+          },
+          "depth": 0,
+          "x": 830,
+          "y": 450,
+          "layoutOrder": 0,
+          "_order": 1
+      }
+  ],
+  "edges": [
+      {
+          "source": "account_103",
+          "target": "account_904",
+          "edgeType": "ib_txn",
+          "edgeTypeKeyFromProperties": "category",
+          "data": {
+              "source": "account_103",
+              "target": "account_904",
+              "amount": 1000000,
+              "balance": 200000,
+              "category": "ib_txn",
+              "date": "2020-01-01T00:00:00",
+              "id": "ib_txn_1",
+              "is_foreign_source": 0,
+              "is_foreign_target": 1,
+              "is_high_risk_source_target_location": 0,
+              "relation": "ib_transfer",
+              "source_owner": "customer_103",
+              "target_owner": "other_banks",
+              "time": "0:00:00"
+          },
+          "style": {},
+          "type": "graphin-line",
+          "id": "edge-0.50885869584840761662023124432",
+          "startPoint": {
+              "x": 662.1125368495791,
+              "y": -14.777454108026044
+          },
+          "endPoint": {
+              "x": 567.2739895945605,
+              "y": 624.6677147390276
+          },
+          "_initialStyle": {
+              "keyshape": {
+                  "type": "line",
+                  "lineWidth": 1,
+                  "stroke": "#ddd",
+                  "strokeOpacity": 1,
+                  "lineAppendWidth": 9,
+                  "cursor": "pointer"
+              },
+              "halo": {
+                  "visible": false,
+                  "cursor": "pointer",
+                  "strokeOpacity": 0.4
+              },
+              "label": {
+                  "value": "",
+                  "position": "top",
+                  "fill": "#ddd",
+                  "fontSize": 12,
+                  "textAlign": "center"
+              },
+              "animate": {}
+          }
+      },
+      {
+          "source": "account_903",
+          "target": "account_103",
+          "edgeType": "ib_txn",
+          "edgeTypeKeyFromProperties": "category",
+          "data": {
+              "source": "account_903",
+              "target": "account_103",
+              "amount": 100000,
+              "balance": "null",
+              "category": "ib_txn",
+              "date": "2020-01-02T01:00:00",
+              "id": "ib_txn_2",
+              "is_foreign_source": 1,
+              "is_foreign_target": 0,
+              "is_high_risk_source_target_location": 0,
+              "relation": "ib_transfer",
+              "source_owner": "other_banks",
+              "target_owner": "customer_103",
+              "time": "1:00:00"
+          },
+          "style": {},
+          "type": "graphin-line",
+          "id": "edge-0.112517627943968361662023124438",
+          "startPoint": {
+              "x": 752.9229646635791,
+              "y": 624.6397941351277
+          },
+          "endPoint": {
+              "x": 666.4635617805604,
+              "y": -14.749533504126063
+          },
+          "_initialStyle": {
+              "keyshape": {
+                  "type": "line",
+                  "lineWidth": 1,
+                  "stroke": "#ddd",
+                  "strokeOpacity": 1,
+                  "lineAppendWidth": 9,
+                  "cursor": "pointer"
+              },
+              "halo": {
+                  "visible": false,
+                  "cursor": "pointer",
+                  "strokeOpacity": 0.4
+              },
+              "label": {
+                  "value": "",
+                  "position": "top",
+                  "fill": "#ddd",
+                  "fontSize": 12,
+                  "textAlign": "center"
+              },
+              "animate": {}
+          }
+      },
+      {
+          "source": "account_103",
+          "target": "account_904",
+          "edgeType": "ib_txn",
+          "edgeTypeKeyFromProperties": "category",
+          "data": {
+              "source": "account_103",
+              "target": "account_904",
+              "amount": 50000,
+              "balance": 250000,
+              "category": "ib_txn",
+              "date": "2020-01-02T02:00:00",
+              "id": "ib_txn_3",
+              "is_foreign_source": 0,
+              "is_foreign_target": 1,
+              "is_high_risk_source_target_location": 0,
+              "relation": "ib_transfer",
+              "source_owner": "customer_103",
+              "target_owner": "other_banks",
+              "time": "2:00:00"
+          },
+          "style": {},
+          "type": "graphin-line",
+          "id": "edge-0.099254790638784841662023124438",
+          "startPoint": {
+              "x": 662.1125368495791,
+              "y": -14.777454108026044
+          },
+          "endPoint": {
+              "x": 567.2739895945605,
+              "y": 624.6677147390276
+          },
+          "_initialStyle": {
+              "keyshape": {
+                  "type": "line",
+                  "lineWidth": 1,
+                  "stroke": "#ddd",
+                  "strokeOpacity": 1,
+                  "lineAppendWidth": 9,
+                  "cursor": "pointer"
+              },
+              "halo": {
+                  "visible": false,
+                  "cursor": "pointer",
+                  "strokeOpacity": 0.4
+              },
+              "label": {
+                  "value": "",
+                  "position": "top",
+                  "fill": "#ddd",
+                  "fontSize": 12,
+                  "textAlign": "center"
+              },
+              "animate": {}
+          }
+      },
+      {
+          "source": "account_904",
+          "target": "account_103",
+          "edgeType": "ib_txn",
+          "edgeTypeKeyFromProperties": "category",
+          "data": {
+              "source": "account_904",
+              "target": "account_103",
+              "amount": 2000000,
+              "balance": "null",
+              "category": "ib_txn",
+              "date": "2020-01-01T03:00:00",
+              "id": "ib_txn_4",
+              "is_foreign_source": 1,
+              "is_foreign_target": 0,
+              "is_high_risk_source_target_location": 0,
+              "relation": "ib_transfer",
+              "source_owner": "other_banks",
+              "target_owner": "customer_103",
+              "time": "3:00:00"
+          },
+          "style": {},
+          "type": "graphin-line",
+          "id": "edge-0.53730041355027171662023124439",
+          "startPoint": {
+              "x": 567.2739895945605,
+              "y": 624.6677147390276
+          },
+          "endPoint": {
+              "x": 662.1125368495791,
+              "y": -14.777454108026044
+          },
+          "_initialStyle": {
+              "keyshape": {
+                  "type": "line",
+                  "lineWidth": 1,
+                  "stroke": "#ddd",
+                  "strokeOpacity": 1,
+                  "lineAppendWidth": 9,
+                  "cursor": "pointer"
+              },
+              "halo": {
+                  "visible": false,
+                  "cursor": "pointer",
+                  "strokeOpacity": 0.4
+              },
+              "label": {
+                  "value": "",
+                  "position": "top",
+                  "fill": "#ddd",
+                  "fontSize": 12,
+                  "textAlign": "center"
+              },
+              "animate": {}
+          }
+      },
+      {
+          "source": "account_103",
+          "target": "account_903",
+          "edgeType": "ib_txn",
+          "edgeTypeKeyFromProperties": "category",
+          "data": {
+              "source": "account_103",
+              "target": "account_903",
+              "amount": 1000000,
+              "balance": 1250000,
+              "category": "ib_txn",
+              "date": "2020-01-02T04:00:00",
+              "id": "ib_txn_5",
+              "is_foreign_source": 0,
+              "is_foreign_target": 1,
+              "is_high_risk_source_target_location": 0,
+              "relation": "ib_transfer",
+              "source_owner": "customer_103",
+              "target_owner": "other_banks",
+              "time": "4:00:00"
+          },
+          "style": {},
+          "type": "graphin-line",
+          "id": "edge-0.484094133152393361662023124439",
+          "startPoint": {
+              "x": 666.4635617805604,
+              "y": -14.749533504126063
+          },
+          "endPoint": {
+              "x": 752.9229646635791,
+              "y": 624.6397941351277
+          },
+          "_initialStyle": {
+              "keyshape": {
+                  "type": "line",
+                  "lineWidth": 1,
+                  "stroke": "#ddd",
+                  "strokeOpacity": 1,
+                  "lineAppendWidth": 9,
+                  "cursor": "pointer"
+              },
+              "halo": {
+                  "visible": false,
+                  "cursor": "pointer",
+                  "strokeOpacity": 0.4
+              },
+              "label": {
+                  "value": "",
+                  "position": "top",
+                  "fill": "#ddd",
+                  "fontSize": 12,
+                  "textAlign": "center"
+              },
+              "animate": {}
+          }
+      },
+      {
+          "source": "account_103",
+          "target": "account_903",
+          "edgeType": "ib_txn",
+          "edgeTypeKeyFromProperties": "category",
+          "data": {
+              "source": "account_103",
+              "target": "account_903",
+              "amount": 1000000,
+              "balance": 250000,
+              "category": "ib_txn",
+              "date": "2020-01-02T05:00:00",
+              "id": "ib_txn_6",
+              "is_foreign_source": 0,
+              "is_foreign_target": 1,
+              "is_high_risk_source_target_location": 0,
+              "relation": "ib_transfer",
+              "source_owner": "customer_103",
+              "target_owner": "other_banks",
+              "time": "5:00:00"
+          },
+          "style": {},
+          "type": "graphin-line",
+          "id": "edge-0.56877188569776481662023124440",
+          "startPoint": {
+              "x": 666.4635617805604,
+              "y": -14.749533504126063
+          },
+          "endPoint": {
+              "x": 752.9229646635791,
+              "y": 624.6397941351277
+          },
+          "_initialStyle": {
+              "keyshape": {
+                  "type": "line",
+                  "lineWidth": 1,
+                  "stroke": "#ddd",
+                  "strokeOpacity": 1,
+                  "lineAppendWidth": 9,
+                  "cursor": "pointer"
+              },
+              "halo": {
+                  "visible": false,
+                  "cursor": "pointer",
+                  "strokeOpacity": 0.4
+              },
+              "label": {
+                  "value": "",
+                  "position": "top",
+                  "fill": "#ddd",
+                  "fontSize": 12,
+                  "textAlign": "center"
+              },
+              "animate": {}
+          }
+      },
+      {
+          "source": "account_901",
+          "target": "account_103",
+          "edgeType": "ib_txn",
+          "edgeTypeKeyFromProperties": "category",
+          "data": {
+              "source": "account_901",
+              "target": "account_103",
+              "amount": 250000,
+              "balance": 10000,
+              "category": "ib_txn",
+              "date": "2020-01-01T06:00:00",
+              "id": "ib_txn_7",
+              "is_foreign_source": 0,
+              "is_foreign_target": 0,
+              "is_high_risk_source_target_location": 0,
+              "relation": "ib_transfer",
+              "source_owner": "customer_901",
+              "target_owner": "customer_103",
+              "time": "6:00:00"
+          },
+          "style": {},
+          "type": "graphin-line",
+          "id": "edge-0.89446175776100791662023124440",
+          "startPoint": {
+              "x": 822.315566817151,
+              "y": 246.53896413130371
+          },
+          "endPoint": {
+              "x": 672.0709596269886,
+              "y": -16.64870350030212
+          },
+          "_initialStyle": {
+              "keyshape": {
+                  "type": "line",
+                  "lineWidth": 1,
+                  "stroke": "#ddd",
+                  "strokeOpacity": 1,
+                  "lineAppendWidth": 9,
+                  "cursor": "pointer"
+              },
+              "halo": {
+                  "visible": false,
+                  "cursor": "pointer",
+                  "strokeOpacity": 0.4
+              },
+              "label": {
+                  "value": "",
+                  "position": "top",
+                  "fill": "#ddd",
+                  "fontSize": 12,
+                  "textAlign": "center"
+              },
+              "animate": {}
+          }
+      },
+      {
+          "source": "account_902",
+          "target": "account_103",
+          "edgeType": "ib_txn",
+          "edgeTypeKeyFromProperties": "category",
+          "data": {
+              "source": "account_902",
+              "target": "account_103",
+              "amount": 250000,
+              "balance": 300000,
+              "category": "ib_txn",
+              "date": "2020-01-01T06:30:00",
+              "id": "ib_txn_8",
+              "is_foreign_source": 0,
+              "is_foreign_target": 0,
+              "is_high_risk_source_target_location": 0,
+              "relation": "ib_transfer",
+              "source_owner": "customer_902",
+              "target_owner": "customer_103",
+              "time": "6:30:00"
+          },
+          "style": {},
+          "type": "graphin-line",
+          "id": "edge-0.59917460941461461662023124441",
+          "startPoint": {
+              "x": 1007.9896585302663,
+              "y": 250.2019543897574
+          },
+          "endPoint": {
+              "x": 676.3968679138733,
+              "y": -20.311693758755812
+          },
+          "_initialStyle": {
+              "keyshape": {
+                  "type": "line",
+                  "lineWidth": 1,
+                  "stroke": "#ddd",
+                  "strokeOpacity": 1,
+                  "lineAppendWidth": 9,
+                  "cursor": "pointer"
+              },
+              "halo": {
+                  "visible": false,
+                  "cursor": "pointer",
+                  "strokeOpacity": 0.4
+              },
+              "label": {
+                  "value": "",
+                  "position": "top",
+                  "fill": "#ddd",
+                  "fontSize": 12,
+                  "textAlign": "center"
+              },
+              "animate": {}
+          }
+      },
+      {
+          "source": "account_903",
+          "target": "account_103",
+          "edgeType": "ib_txn",
+          "edgeTypeKeyFromProperties": "category",
+          "data": {
+              "source": "account_903",
+              "target": "account_103",
+              "amount": 250000,
+              "balance": "null",
+              "category": "ib_txn",
+              "date": "2020-01-02T06:00:00",
+              "id": "ib_txn_9",
+              "is_foreign_source": 1,
+              "is_foreign_target": 0,
+              "is_high_risk_source_target_location": 0,
+              "relation": "ib_transfer",
+              "source_owner": "other_banks",
+              "target_owner": "customer_103",
+              "time": "6:00:00"
+          },
+          "style": {},
+          "type": "graphin-line",
+          "id": "edge-0.87447638915434141662023124441",
+          "startPoint": {
+              "x": 752.9229646635791,
+              "y": 624.6397941351277
+          },
+          "endPoint": {
+              "x": 666.4635617805604,
+              "y": -14.749533504126063
+          },
+          "_initialStyle": {
+              "keyshape": {
+                  "type": "line",
+                  "lineWidth": 1,
+                  "stroke": "#ddd",
+                  "strokeOpacity": 1,
+                  "lineAppendWidth": 9,
+                  "cursor": "pointer"
+              },
+              "halo": {
+                  "visible": false,
+                  "cursor": "pointer",
+                  "strokeOpacity": 0.4
+              },
+              "label": {
+                  "value": "",
+                  "position": "top",
+                  "fill": "#ddd",
+                  "fontSize": 12,
+                  "textAlign": "center"
+              },
+              "animate": {}
+          }
+      },
+      {
+          "source": "account_904",
+          "target": "account_103",
+          "edgeType": "ib_txn",
+          "edgeTypeKeyFromProperties": "category",
+          "data": {
+              "source": "account_904",
+              "target": "account_103",
+              "amount": 250000,
+              "balance": "null",
+              "category": "ib_txn",
+              "date": "2020-01-01T00:00:00",
+              "id": "ib_txn_10",
+              "is_foreign_source": 1,
+              "is_foreign_target": 0,
+              "is_high_risk_source_target_location": 0,
+              "relation": "ib_transfer",
+              "source_owner": "other_banks",
+              "target_owner": "customer_103",
+              "time": "0:00:00"
+          },
+          "style": {},
+          "type": "graphin-line",
+          "id": "edge-0.216757231281768711662023124441",
+          "startPoint": {
+              "x": 567.2739895945605,
+              "y": 624.6677147390276
+          },
+          "endPoint": {
+              "x": 662.1125368495791,
+              "y": -14.777454108026044
+          },
+          "_initialStyle": {
+              "keyshape": {
+                  "type": "line",
+                  "lineWidth": 1,
+                  "stroke": "#ddd",
+                  "strokeOpacity": 1,
+                  "lineAppendWidth": 9,
+                  "cursor": "pointer"
+              },
+              "halo": {
+                  "visible": false,
+                  "cursor": "pointer",
+                  "strokeOpacity": 0.4
+              },
+              "label": {
+                  "value": "",
+                  "position": "top",
+                  "fill": "#ddd",
+                  "fontSize": 12,
+                  "textAlign": "center"
+              },
+              "animate": {}
+          }
+      },
+      {
+          "source": "account_7",
+          "target": "account_103",
+          "edgeType": "ib_txn",
+          "edgeTypeKeyFromProperties": "category",
+          "data": {
+              "source": "account_7",
+              "target": "account_103",
+              "amount": 125000,
+              "balance": 225000,
+              "category": "ib_txn",
+              "date": "2020-01-03T22:00:00",
+              "id": "ib_txn_72",
+              "is_foreign_source": 0,
+              "is_foreign_target": 0,
+              "is_high_risk_source_target_location": 0,
+              "relation": "ib_transfer",
+              "source_owner": "customer_7",
+              "target_owner": "customer_103",
+              "time": "22:00:00"
+          },
+          "style": {},
+          "type": "graphin-line",
+          "id": "edge-0.57913058850927971662023124442",
+          "startPoint": {
+              "x": 83.92938604203536,
+              "y": 253.2013086191569
+          },
+          "endPoint": {
+              "x": 650.4571404021042,
+              "y": -23.311047988155313
+          },
+          "_initialStyle": {
+              "keyshape": {
+                  "type": "line",
+                  "lineWidth": 1,
+                  "stroke": "#ddd",
+                  "strokeOpacity": 1,
+                  "lineAppendWidth": 9,
+                  "cursor": "pointer"
+              },
+              "halo": {
+                  "visible": false,
+                  "cursor": "pointer",
+                  "strokeOpacity": 0.4
+              },
+              "label": {
+                  "value": "",
+                  "position": "top",
+                  "fill": "#ddd",
+                  "fontSize": 12,
+                  "textAlign": "center"
+              },
+              "animate": {}
+          }
+      },
+      {
+          "source": "account_55",
+          "target": "account_103",
+          "edgeType": "ib_txn",
+          "edgeTypeKeyFromProperties": "category",
+          "data": {
+              "source": "account_55",
+              "target": "account_103",
+              "amount": 250000,
+              "balance": 475000,
+              "category": "ib_txn",
+              "date": "2020-01-03T22:00:00",
+              "id": "ib_txn_73",
+              "is_foreign_source": 0,
+              "is_foreign_target": 0,
+              "is_high_risk_source_target_location": 0,
+              "relation": "ib_transfer",
+              "source_owner": "customer_55",
+              "target_owner": "customer_103",
+              "time": "22:00:00"
+          },
+          "style": {},
+          "type": "graphin-line",
+          "id": "edge-0.19526989141357731662023124442",
+          "startPoint": {
+              "x": 459.21188288987497,
+              "y": 247.53439878613034
+          },
+          "endPoint": {
+              "x": 655.1746435542645,
+              "y": -17.644138155128765
+          },
+          "_initialStyle": {
+              "keyshape": {
+                  "type": "line",
+                  "lineWidth": 1,
+                  "stroke": "#ddd",
+                  "strokeOpacity": 1,
+                  "lineAppendWidth": 9,
+                  "cursor": "pointer"
+              },
+              "halo": {
+                  "visible": false,
+                  "cursor": "pointer",
+                  "strokeOpacity": 0.4
+              },
+              "label": {
+                  "value": "",
+                  "position": "top",
+                  "fill": "#ddd",
+                  "fontSize": 12,
+                  "textAlign": "center"
+              },
+              "animate": {}
+          }
+      },
+      {
+          "source": "account_20",
+          "target": "account_103",
+          "edgeType": "ib_txn",
+          "edgeTypeKeyFromProperties": "category",
+          "data": {
+              "source": "account_20",
+              "target": "account_103",
+              "amount": 150000,
+              "balance": 625000,
+              "category": "ib_txn",
+              "date": "2020-01-04T18:00:00",
+              "id": "ib_txn_74",
+              "is_foreign_source": 0,
+              "is_foreign_target": 0,
+              "is_high_risk_source_target_location": 0,
+              "relation": "ib_transfer",
+              "source_owner": "customer_20",
+              "target_owner": "customer_103",
+              "time": "18:00:00"
+          },
+          "style": {},
+          "type": "graphin-line",
+          "id": "edge-0.488118868921181951662023124442",
+          "startPoint": {
+              "x": 272.59424904306576,
+              "y": 250.96479712229785
+          },
+          "endPoint": {
+              "x": 651.7922774010738,
+              "y": -21.07453649129627
+          },
+          "_initialStyle": {
+              "keyshape": {
+                  "type": "line",
+                  "lineWidth": 1,
+                  "stroke": "#ddd",
+                  "strokeOpacity": 1,
+                  "lineAppendWidth": 9,
+                  "cursor": "pointer"
+              },
+              "halo": {
+                  "visible": false,
+                  "cursor": "pointer",
+                  "strokeOpacity": 0.4
+              },
+              "label": {
+                  "value": "",
+                  "position": "top",
+                  "fill": "#ddd",
+                  "fontSize": 12,
+                  "textAlign": "center"
+              },
+              "animate": {}
+          }
+      },
+      {
+          "source": "account_81",
+          "target": "account_103",
+          "edgeType": "ib_txn",
+          "edgeTypeKeyFromProperties": "category",
+          "data": {
+              "source": "account_81",
+              "target": "account_103",
+              "amount": 300000,
+              "balance": 925000,
+              "category": "ib_txn",
+              "date": "2020-01-04T18:00:00",
+              "id": "ib_txn_75",
+              "is_foreign_source": 0,
+              "is_foreign_target": 0,
+              "is_high_risk_source_target_location": 0,
+              "relation": "ib_transfer",
+              "source_owner": "customer_81",
+              "target_owner": "customer_103",
+              "time": "18:00:00"
+          },
+          "style": {},
+          "type": "graphin-line",
+          "id": "edge-0.426412478149517551662023124443",
+          "startPoint": {
+              "x": 641.2983457525798,
+              "y": 244.5544731942624
+          },
+          "endPoint": {
+              "x": 663.0881806915597,
+              "y": -14.664212563260847
+          },
+          "_initialStyle": {
+              "keyshape": {
+                  "type": "line",
+                  "lineWidth": 1,
+                  "stroke": "#ddd",
+                  "strokeOpacity": 1,
+                  "lineAppendWidth": 9,
+                  "cursor": "pointer"
+              },
+              "halo": {
+                  "visible": false,
+                  "cursor": "pointer",
+                  "strokeOpacity": 0.4
+              },
+              "label": {
+                  "value": "",
+                  "position": "top",
+                  "fill": "#ddd",
+                  "fontSize": 12,
+                  "textAlign": "center"
+              },
+              "animate": {}
+          }
+      },
+      {
+          "source": "customer_7",
+          "target": "account_7",
+          "edgeType": "ownership",
+          "edgeTypeKeyFromProperties": "category",
+          "data": {
+              "source": "customer_7",
+              "target": "account_7",
+              "category": "ownership",
+              "id": "ownership_210",
+              "relation": "owns"
+          },
+          "style": {},
+          "type": "graphin-line",
+          "id": "edge-0.99188493759748191662023124443",
+          "startPoint": {
+              "x": 70,
+              "y": 85.5
+          },
+          "endPoint": {
+              "x": 70,
+              "y": 244.5
+          },
+          "_initialStyle": {
+              "keyshape": {
+                  "type": "line",
+                  "lineWidth": 1,
+                  "stroke": "#ddd",
+                  "strokeOpacity": 1,
+                  "lineAppendWidth": 9,
+                  "cursor": "pointer"
+              },
+              "halo": {
+                  "visible": false,
+                  "cursor": "pointer",
+                  "strokeOpacity": 0.4
+              },
+              "label": {
+                  "value": "",
+                  "position": "top",
+                  "fill": "#ddd",
+                  "fontSize": 12,
+                  "textAlign": "center"
+              },
+              "animate": {}
+          }
+      },
+      {
+          "source": "customer_20",
+          "target": "account_20",
+          "edgeType": "ownership",
+          "edgeTypeKeyFromProperties": "category",
+          "data": {
+              "source": "customer_20",
+              "target": "account_20",
+              "category": "ownership",
+              "id": "ownership_223",
+              "relation": "owns"
+          },
+          "style": {},
+          "type": "graphin-line",
+          "id": "edge-0.244308076012690331662023124443",
+          "startPoint": {
+              "x": 260,
+              "y": 85.5
+          },
+          "endPoint": {
+              "x": 260,
+              "y": 244.5
+          },
+          "_initialStyle": {
+              "keyshape": {
+                  "type": "line",
+                  "lineWidth": 1,
+                  "stroke": "#ddd",
+                  "strokeOpacity": 1,
+                  "lineAppendWidth": 9,
+                  "cursor": "pointer"
+              },
+              "halo": {
+                  "visible": false,
+                  "cursor": "pointer",
+                  "strokeOpacity": 0.4
+              },
+              "label": {
+                  "value": "",
+                  "position": "top",
+                  "fill": "#ddd",
+                  "fontSize": 12,
+                  "textAlign": "center"
+              },
+              "animate": {}
+          }
+      },
+      {
+          "source": "customer_55",
+          "target": "account_55",
+          "edgeType": "ownership",
+          "edgeTypeKeyFromProperties": "category",
+          "data": {
+              "source": "customer_55",
+              "target": "account_55",
+              "category": "ownership",
+              "id": "ownership_258",
+              "relation": "owns"
+          },
+          "style": {},
+          "type": "graphin-line",
+          "id": "edge-0.91167070438305161662023124444",
+          "startPoint": {
+              "x": 450,
+              "y": 85.5
+          },
+          "endPoint": {
+              "x": 450,
+              "y": 244.5
+          },
+          "_initialStyle": {
+              "keyshape": {
+                  "type": "line",
+                  "lineWidth": 1,
+                  "stroke": "#ddd",
+                  "strokeOpacity": 1,
+                  "lineAppendWidth": 9,
+                  "cursor": "pointer"
+              },
+              "halo": {
+                  "visible": false,
+                  "cursor": "pointer",
+                  "strokeOpacity": 0.4
+              },
+              "label": {
+                  "value": "",
+                  "position": "top",
+                  "fill": "#ddd",
+                  "fontSize": 12,
+                  "textAlign": "center"
+              },
+              "animate": {}
+          }
+      },
+      {
+          "source": "customer_81",
+          "target": "account_81",
+          "edgeType": "ownership",
+          "edgeTypeKeyFromProperties": "category",
+          "data": {
+              "source": "customer_81",
+              "target": "account_81",
+              "category": "ownership",
+              "id": "ownership_284",
+              "relation": "owns"
+          },
+          "style": {},
+          "type": "graphin-line",
+          "id": "edge-0.56121424970193661662023124444",
+          "startPoint": {
+              "x": 640,
+              "y": 85.5
+          },
+          "endPoint": {
+              "x": 640,
+              "y": 244.5
+          },
+          "_initialStyle": {
+              "keyshape": {
+                  "type": "line",
+                  "lineWidth": 1,
+                  "stroke": "#ddd",
+                  "strokeOpacity": 1,
+                  "lineAppendWidth": 9,
+                  "cursor": "pointer"
+              },
+              "halo": {
+                  "visible": false,
+                  "cursor": "pointer",
+                  "strokeOpacity": 0.4
+              },
+              "label": {
+                  "value": "",
+                  "position": "top",
+                  "fill": "#ddd",
+                  "fontSize": 12,
+                  "textAlign": "center"
+              },
+              "animate": {}
+          }
+      },
+      {
+          "source": "customer_103",
+          "target": "account_103",
+          "edgeType": "ownership",
+          "edgeTypeKeyFromProperties": "category",
+          "data": {
+              "source": "customer_103",
+              "target": "account_103",
+              "category": "ownership",
+              "id": "ownership_306",
+              "relation": "owns"
+          },
+          "style": {},
+          "type": "graphin-line",
+          "id": "edge-0.5677193364222311662023124444",
+          "startPoint": {
+              "x": 1196.314332163943,
+              "y": 252.72315343839705
+          },
+          "endPoint": {
+              "x": 678.0721942801966,
+              "y": -22.83289280739547
+          },
+          "_initialStyle": {
+              "keyshape": {
+                  "type": "line",
+                  "lineWidth": 1,
+                  "stroke": "#ddd",
+                  "strokeOpacity": 1,
+                  "lineAppendWidth": 9,
+                  "cursor": "pointer"
+              },
+              "halo": {
+                  "visible": false,
+                  "cursor": "pointer",
+                  "strokeOpacity": 0.4
+              },
+              "label": {
+                  "value": "",
+                  "position": "top",
+                  "fill": "#ddd",
+                  "fontSize": 12,
+                  "textAlign": "center"
+              },
+              "animate": {}
+          }
+      },
+      {
+          "source": "customer_901",
+          "target": "account_901",
+          "edgeType": "ownership",
+          "edgeTypeKeyFromProperties": "category",
+          "data": {
+              "source": "customer_901",
+              "target": "account_901",
+              "category": "ownership",
+              "id": "ownership_307",
+              "relation": "owns"
+          },
+          "style": {},
+          "type": "graphin-line",
+          "id": "edge-0.475155997727460871662023124444",
+          "startPoint": {
+              "x": 830,
+              "y": 85.5
+          },
+          "endPoint": {
+              "x": 830,
+              "y": 244.5
+          },
+          "_initialStyle": {
+              "keyshape": {
+                  "type": "line",
+                  "lineWidth": 1,
+                  "stroke": "#ddd",
+                  "strokeOpacity": 1,
+                  "lineAppendWidth": 9,
+                  "cursor": "pointer"
+              },
+              "halo": {
+                  "visible": false,
+                  "cursor": "pointer",
+                  "strokeOpacity": 0.4
+              },
+              "label": {
+                  "value": "",
+                  "position": "top",
+                  "fill": "#ddd",
+                  "fontSize": 12,
+                  "textAlign": "center"
+              },
+              "animate": {}
+          }
+      },
+      {
+          "source": "customer_902",
+          "target": "account_902",
+          "edgeType": "ownership",
+          "edgeTypeKeyFromProperties": "category",
+          "data": {
+              "source": "customer_902",
+              "target": "account_902",
+              "category": "ownership",
+              "id": "ownership_308",
+              "relation": "owns"
+          },
+          "style": {},
+          "type": "graphin-line",
+          "id": "edge-0.51113026317902351662023124444",
+          "startPoint": {
+              "x": 1042.3322533321507,
+              "y": 92.9840561580122
+          },
+          "endPoint": {
+              "x": 1022.054273111989,
+              "y": 244.63673335578144
+          },
+          "_initialStyle": {
+              "keyshape": {
+                  "type": "line",
+                  "lineWidth": 1,
+                  "stroke": "#ddd",
+                  "strokeOpacity": 1,
+                  "lineAppendWidth": 9,
+                  "cursor": "pointer"
+              },
+              "halo": {
+                  "visible": false,
+                  "cursor": "pointer",
+                  "strokeOpacity": 0.4
+              },
+              "label": {
+                  "value": "",
+                  "position": "top",
+                  "fill": "#ddd",
+                  "fontSize": 12,
+                  "textAlign": "center"
+              },
+              "animate": {}
+          }
+      },
+      {
+          "source": "other_banks",
+          "target": "account_903",
+          "edgeType": "ownership",
+          "edgeTypeKeyFromProperties": "category",
+          "data": {
+              "source": "other_banks",
+              "target": "account_903",
+              "category": "ownership",
+              "id": "ownership_310",
+              "relation": "owns"
+          },
+          "style": {},
+          "type": "graphin-line",
+          "id": "edge-0.61979131671322761662023124445",
+          "startPoint": {
+              "x": 824.3089187115912,
+              "y": 464.4174059306355
+          },
+          "endPoint": {
+              "x": 760.6910812884088,
+              "y": 625.5825940693645
+          },
+          "_initialStyle": {
+              "keyshape": {
+                  "type": "line",
+                  "lineWidth": 1,
+                  "stroke": "#ddd",
+                  "strokeOpacity": 1,
+                  "lineAppendWidth": 9,
+                  "cursor": "pointer"
+              },
+              "halo": {
+                  "visible": false,
+                  "cursor": "pointer",
+                  "strokeOpacity": 0.4
+              },
+              "label": {
+                  "value": "",
+                  "position": "top",
+                  "fill": "#ddd",
+                  "fontSize": 12,
+                  "textAlign": "center"
+              },
+              "animate": {}
+          }
+      },
+      {
+          "source": "other_banks",
+          "target": "account_904",
+          "edgeType": "ownership",
+          "edgeTypeKeyFromProperties": "category",
+          "data": {
+              "source": "other_banks",
+              "target": "account_904",
+              "category": "ownership",
+              "id": "ownership_311",
+              "relation": "owns"
+          },
+          "style": {},
+          "type": "graphin-line",
+          "id": "edge-0.034537324981472441662023124445",
+          "startPoint": {
+              "x": 817.4032103746895,
+              "y": 459.0316604860717
+          },
+          "endPoint": {
+              "x": 577.5967896253105,
+              "y": 630.9683395139283
+          },
+          "_initialStyle": {
+              "keyshape": {
+                  "type": "line",
+                  "lineWidth": 1,
+                  "stroke": "#ddd",
+                  "strokeOpacity": 1,
+                  "lineAppendWidth": 9,
+                  "cursor": "pointer"
+              },
+              "halo": {
+                  "visible": false,
+                  "cursor": "pointer",
+                  "strokeOpacity": 0.4
+              },
+              "label": {
+                  "value": "",
+                  "position": "top",
+                  "fill": "#ddd",
+                  "fontSize": 12,
+                  "textAlign": "center"
+              },
+              "animate": {}
+          }
+      }
+  ],
+  "combos": []
+}

@@ -1,3 +1,3 @@
 export async function getData(): Promise<object> {
-    return fetch('/api/hello').then((res) => {return res.json()})
+    return fetch('/api/autosave').then((res) => {return res.json()})
 }

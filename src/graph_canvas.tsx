@@ -14,7 +14,7 @@ export default function GraphTest() {
   var data:any = selectedData
   //console.log(selectedData)
   return (
-      <Graphin data={data} layout={{ type: "dagre" }}>
+      <Graphin enabledStack= {true} data={data} layout={{ type: "dagre" }}>
         <GraphContext />
         {/* <LegendPlugin /> */}
         <MiniMapPlugin />
