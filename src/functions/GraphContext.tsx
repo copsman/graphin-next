@@ -2,6 +2,7 @@ import React, { useContext, useEffect, useState } from 'react';
 import { GraphEvent, GraphinContext } from '@antv/graphin';
 import { useGraphData } from '../states/graph_states';
 import { GraphinNode } from '@antv/graphin/lib/typings/type';
+import { setData } from '../../common/api';
 
 const GraphContext: React.FC = () => {
     const { selectedGraphContext, selectedData, setGraphContext, selectedSearch } = useGraphData()
@@ -25,6 +26,7 @@ const GraphContext: React.FC = () => {
             easing: 'easeCubic',
             duration: 500,
         });
+        setData(JSON.stringify(graph.save()))
     }
     
     useEffect(() => {

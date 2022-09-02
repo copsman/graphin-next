@@ -8,20 +8,20 @@ export default async function handler(
     res: NextApiResponse) {
     if (req.method === "GET") {
 
-
         //Find the absolute path of the json directory
         const jsonDirectory = path.join(process.cwd(), 'data');
         //Read the json data file data.json
-        const fileContents = await fs.readFile(jsonDirectory + '/autosave.json', 'utf8');
+        const fileContents = await fs.readFile(jsonDirectory + '/test.json', 'utf8');
         //Return the content of the data file in json format
         res.status(200).json(JSON.parse(fileContents));
     }
 
     else if (req.method === "POST"){
+
         //Find the absolute path of the json directory
         const jsonDirectory = path.join(process.cwd(), 'data');
         //Read the json data file data.json
-        const fileContents = await fs.writeFile(jsonDirectory + '/test.json', '{"message":"Hello!"}', 'utf8');
+        const fileContents = await fs.writeFile(jsonDirectory + '/test.json', req.body, 'utf8');
         //Return the content of the data file in json format
         res.status(200).json({message: "POST!"});
     }
