@@ -3,6 +3,7 @@ import setESIcons from '../styles/elastic';
 import setIcons from "../styles/graphine-icons";
 import { Graph, GraphinContext } from '@antv/graphin';
 import { useContext } from 'react';
+
 export const useGraphData = create((set: Function) => ({
     selectedData: [],
     selectedSearch: '',
@@ -16,4 +17,11 @@ export const useGraphData = create((set: Function) => ({
     setGraphContext: (GraphContext:any) => set(({
         selectedGraphContext: GraphContext
     }))
+}))
+
+export const useAutoSave = create((set: Function) => ({
+    selectedAutoSave: false,
+    setAutoSave: (condition:Boolean) => set(({
+        selectedAutoSave: condition
+    })),
 }))

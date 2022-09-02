@@ -3,17 +3,20 @@ import { AutoComplete, Button, Input } from 'antd';
 import React, { useContext, useState } from 'react';
 import { useQuery } from 'react-query';
 import { getData } from '../../../common/api';
-import { useGraphData } from '../../states/graph_states';
+import { useAutoSave, useGraphData } from '../../states/graph_states';
 
 
 
 const LoadAutoSave: React.FC = () => {
-    const {selectedData, setSearch, selectedSearch, setData} = useGraphData()
-    const { isLoading, isFetching, error, data, status } = useQuery([], getData);
+    const {setData} = useGraphData()
+    const {setAutoSave} = useAutoSave()
+    const { isLoading, isFetching, error, data, status, refetch } = useQuery(["autosave"], getData);
 
     const onClick = () => {
+        refetch()
         console.log(data)
         setData(data)
+        setAutoSave(true)
         console.log("click")
     };
 

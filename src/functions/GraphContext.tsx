@@ -1,44 +1,22 @@
 import React, { useContext, useEffect, useState } from 'react';
 import { GraphEvent, GraphinContext } from '@antv/graphin';
-import { useGraphData } from '../states/graph_states';
+import { useAutoSave, useGraphData } from '../states/graph_states';
 import { GraphinNode } from '@antv/graphin/lib/typings/type';
 import { setData } from '../../common/api';
+import AutoSave from './AutoSave';
 
 const GraphContext: React.FC = () => {
     const { selectedGraphContext, selectedData, setGraphContext, selectedSearch } = useGraphData()
+    const {selectedAutoSave} = useAutoSave()
     const { graph } = useContext(GraphinContext)
     const [stateWidth, setStateWidth]: any = useState(graph.getContainer().clientWidth)
-
-
-    //console.log("render")
-    //console.log(graph['cfg']['data'])
-    useEffect(() => {
-        // listen to the node click event
-        graph.on('node:dragend', handleNodeClick);
-
-    }, [graph])
-    function handleNodeClick(event: GraphEvent) {
-        const item = event.item;
-        console.log(graph.save())
-        // animately move the graph to focus on the item.
-        // the second parameter controlls whether move with animation, the third parameter is the animate configuration
-        graph.focusItem(item, true, {
-            easing: 'easeCubic',
-            duration: 500,
-        });
-        setData(JSON.stringify(graph.save()))
-    }
     
     useEffect(() => {
-        console.log("ggg")
-        console.log(selectedData)
-        //graph.destroyLayout()
-        //graph.read(selectedData)
-        graph.render()
-        graph.destroyLayout()
-        graph.changeData(selectedData)
-        //graph.refreshPositions()
-        //graph.render()
+        if(selectedAutoSave == false){
+            console.log("ggg")
+            graph.render()
+        }
+        
         //graph.setTextWaterMarker(['AntV', 'G6'])
         //const str:any = "account_7"
         //console.log(graph.findById(selectedSearch))
@@ -47,7 +25,7 @@ const GraphContext: React.FC = () => {
         // if(item != null){
         //     item.hide()
         // }
-    }, [graph['cfg']['data'], selectedData])
+    },[graph['cfg']['data']])
 
     useEffect(() => {
         console.log(stateWidth)
@@ -72,6 +50,7 @@ const GraphContext: React.FC = () => {
     //graph.render()
     return (
         <>
+        <AutoSave></AutoSave>
         </>
     );
 };
