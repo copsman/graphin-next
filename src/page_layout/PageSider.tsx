@@ -1,14 +1,16 @@
 import {
     DesktopOutlined,
+    SaveOutlined,
     FileOutlined,
     PieChartOutlined,
     TeamOutlined,
     UserOutlined,
     SearchOutlined
 } from "@ant-design/icons";
-import { Drawer, MenuProps } from "antd";
+import { Divider, Drawer, MenuProps } from "antd";
 import { Breadcrumb, Layout, Menu, Button } from "antd";
 import React, { useContext, useEffect, useState } from "react";
+import ClearCanvas from "../graph_functions/ClearCanvas";
 import LoadAutoSave from "../graph_functions/save-load/LoadAutoSave";
 import SearchBar from "../graph_functions/SearchBar"
 
@@ -40,7 +42,7 @@ const items: any = [
         getItem("Team 1", "6"),
         getItem("Team 2", "8")
     ]),
-    getItem("Files", "9", <FileOutlined />)
+    getItem("Saves", "9", <SaveOutlined />)
 ];
 
 const { Sider } = Layout;
@@ -73,12 +75,17 @@ const PageSider: React.FC = () => {
             onCollapse={(value) => setCollapsed(value)}
         >
             <Drawer title="Basic Drawer" placement="left" onClose={onClose} visible={visible}>
-                <p>
+                <div>
                 <SearchBar />
-                </p>
-                <p>
+                </div>
+                <Divider />
+                <div>
+                    <ClearCanvas />
+                </div>
+                <Divider />
+                <div>
                 <LoadAutoSave />
-                </p>
+                </div>
             </Drawer>
             <Menu onClick={handleClick}
                 theme="dark"

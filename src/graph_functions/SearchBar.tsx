@@ -33,28 +33,28 @@ const SearchBar: React.FC = () => {
     const onSelect = (data: string) => {
         console.log('onSelect', data);
         setSearch(data)
-        if(data == "account_7"){
+        if(data){
             setData(setIcons())
         }
-        else if(data == null || data == ''){
+        else if(selectedData == null || selectedData == []){
             setData([])
         }
-        else{
-            setData(setIcons())
-        }
+        // else{
+        //     setData(setIcons())
+        // }
         
     };
 
     const onChange = (data: string) => {
         console.log("Here")
-        if(data == null || data == ''){
+        if(selectedData == null || selectedData == []){
             setData([])
         }
     };
 
     const onClear = () => {
-        console.log("delete")
-        setData([])
+        //console.log("delete")
+        //setData([])
     };
 
     const onClick = () => {
