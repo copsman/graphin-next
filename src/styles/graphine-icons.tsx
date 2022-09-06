@@ -13,7 +13,7 @@ const { fontFamily, glyphs } = iconLoader();
 const icons = Graphin.registerFontFamily(iconLoader);
 
 const setIcons: any = () => {
-    // const data1 = Utils.mock(5).circle().graphin();
+    const data1 = Utils.mock(1000).random().graphin();
     const dataV2 = GI_LOCAL_DATA
     // const dataNode = [...GI_LOCAL_DATA.nodes, ...data1.nodes]
     // const dataEdges = [...GI_LOCAL_DATA.edges, ...data1.edges]
@@ -24,7 +24,7 @@ const setIcons: any = () => {
     // console.log(data1)
     // console.log(GI_LOCAL_DATA)
     // console.log(dataV3)
-    dataV2.nodes.forEach((node: any) => {
+    data1.nodes.forEach((node: any) => {
         if( node.id.includes("customer") ){
             node.style = {
                 label: {
@@ -100,7 +100,7 @@ const setIcons: any = () => {
     });
     //const {setData} = useGraphData()
     //setData(GI_LOCAL_DATA)
-    return dataV2
+    return data1
 }
 
 export default setIcons

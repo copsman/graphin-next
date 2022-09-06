@@ -36,6 +36,7 @@ const SearchBar: React.FC = () => {
         if(data){
             setData(setIcons())
         }
+        // @ts-ignore
         else if(selectedData == null || selectedData == []){
             setData([])
         }
@@ -47,6 +48,7 @@ const SearchBar: React.FC = () => {
 
     const onChange = (data: string) => {
         console.log("Here")
+        // @ts-ignore
         if(selectedData == null || selectedData == []){
             setData([])
         }

@@ -7,7 +7,7 @@ import GraphContext from "./functions/GraphContext";
 import MiniMapPlugin from "./components/plugins/minimap/Minimap";
 import ContextMenuPlugin from "./components/plugins/contextMenu/ContextMenu";
 import LegendPlugin from "./components/plugins/legend/Legend";
-const { ZoomCanvas, FitView } = Behaviors;
+const { ZoomCanvas, DragCanvas, FitView } = Behaviors;
 
 export default function GraphTest() {
   const {selectedData} = useGraphData()
@@ -15,9 +15,11 @@ export default function GraphTest() {
   //console.log(selectedData)
   return (
       <Graphin enabledStack= {true} data={data} layout={{ type: "dagre" }}>
+        <ZoomCanvas enableOptimize />
+        <DragCanvas enableOptimize />
         <GraphContext />
         {/* <LegendPlugin /> */}
-        <MiniMapPlugin />
+        {/* <MiniMapPlugin /> */}
         <ContextMenuPlugin />
         <FitView />
       </Graphin>
